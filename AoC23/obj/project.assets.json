@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emirc\\.nuget\\packages\\": {}
+    "C:\\Users\\SpitCON\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\AoC23.csproj",
+      "projectUniqueName": "C:\\Programmering\\Aoc23\\Aoc2023\\AoC23\\AoC23.csproj",
       "projectName": "AoC23",
-      "projectPath": "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\AoC23.csproj",
-      "packagesPath": "C:\\Users\\emirc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\obj\\",
+      "projectPath": "C:\\Programmering\\Aoc23\\Aoc2023\\AoC23\\AoC23.csproj",
+      "packagesPath": "C:\\Users\\SpitCON\\.nuget\\packages\\",
+      "outputPath": "C:\\Programmering\\Aoc23\\Aoc2023\\AoC23\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\emirc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SpitCON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\emirc\\source\\repos\\pos\\Other": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
