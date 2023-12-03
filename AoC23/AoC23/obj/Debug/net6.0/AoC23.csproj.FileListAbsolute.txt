@@ -1,0 +1,15 @@
+C:\Users\emirc\source\repos\AoC23\AoC23\bin\Debug\net6.0\AoC23.exe
+C:\Users\emirc\source\repos\AoC23\AoC23\bin\Debug\net6.0\AoC23.deps.json
+C:\Users\emirc\source\repos\AoC23\AoC23\bin\Debug\net6.0\AoC23.runtimeconfig.json
+C:\Users\emirc\source\repos\AoC23\AoC23\bin\Debug\net6.0\AoC23.dll
+C:\Users\emirc\source\repos\AoC23\AoC23\bin\Debug\net6.0\AoC23.pdb
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.csproj.AssemblyReference.cache
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.AssemblyInfoInputs.cache
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.AssemblyInfo.cs
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.csproj.CoreCompileInputs.cache
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.dll
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\refint\AoC23.dll
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.pdb
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\AoC23.genruntimeconfig.cache
+C:\Users\emirc\source\repos\AoC23\AoC23\obj\Debug\net6.0\ref\AoC23.dll
