@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\AoC23.csproj": {}
+    "C:\\Users\\emirc\\Desktop\\dev\\Aoc2023\\AoC23\\AoC23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\AoC23.csproj": {
+    "C:\\Users\\emirc\\Desktop\\dev\\Aoc2023\\AoC23\\AoC23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\AoC23.csproj",
+        "projectUniqueName": "C:\\Users\\emirc\\Desktop\\dev\\Aoc2023\\AoC23\\AoC23.csproj",
         "projectName": "AoC23",
-        "projectPath": "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\AoC23.csproj",
+        "projectPath": "C:\\Users\\emirc\\Desktop\\dev\\Aoc2023\\AoC23\\AoC23.csproj",
         "packagesPath": "C:\\Users\\emirc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emirc\\source\\repos\\AoC23\\AoC23\\obj\\",
+        "outputPath": "C:\\Users\\emirc\\Desktop\\dev\\Aoc2023\\AoC23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emirc\\AppData\\Roaming\\NuGet\\NuGet.Config",
